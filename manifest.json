@@ -1,0 +1,31 @@
+{
+    "name": "EZSecurity",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Extension to provide cyber security to the commonfolk",
+    "icons": {
+        "16": "/images/logo16.png",
+        "48": "/images/logo48.png",
+        "128": "/images/logo128.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "/images/logo16-2.png",
+            "48": "/images/logo48-2.png",
+            "128": "/images/logo128-2.png"
+        },
+        "default_popup": "index.html"
+
+    },
+
+    "permissions":[
+        "privacy"
+    ]
+
+
+
+
+}
+
+
+
